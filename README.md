@@ -3,4 +3,4 @@
 
 ## OpenStack Upstream
 
-- 🐛 **Neutron** – Reported [#2166602](https://bugs.launchpad.net/neutron/+bug/2166602): `KeyError` in `_extend_port_resource_request()` for QoS ports without port binding — found in production, fixed upstream ([change](https://review.opendev.org/q/I240d12fea44c32c0b94337ef764601768959a15c)), released in <RELEASE>
+- 🐛 **Neutron** – Reported [#2166602](https://bugs.launchpad.net/neutron/+bug/2166602): `KeyError` in `_extend_port_resource_request()` for QoS ports without port binding
